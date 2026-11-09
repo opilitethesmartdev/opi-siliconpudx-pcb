@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "USB-C-Power-tester") (type "KiCad") (uri "D:/Data/kicad/USB-C-Power-tester.pretty") (options "") (descr ""))
+	(lib (name "WaferSpace") (type "KiCad") (uri "D:/Data/kicad/WaferSpace.pretty") (options "") (descr ""))
+	(lib (name "TI_TPS2121") (type "KiCad") (uri "D:/Data/kicad/TI_TPS2121.pretty") (options "") (descr ""))
+)
